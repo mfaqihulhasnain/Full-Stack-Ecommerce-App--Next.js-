@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60" fill="none">
+  <!-- Background shape -->
+  <rect x="5" y="5" width="240" height="50" rx="8" fill="white" stroke="#E5E7EB" stroke-width="1.5"/>
+  
+  <!-- NovaBuy Text - More readable font with proper spacing -->
+  <text x="25" y="40" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#3B82F6">NovaBuy</text>
+  
+  <!-- Shopping cart icon -->
+  <path d="M215 20C213.895 20 213 20.895 213 22C213 23.105 213.895 24 215 24C216.105 24 217 23.105 217 22C217 20.895 216.105 20 215 20ZM205 20C203.895 20 203 20.895 203 22C203 23.105 203.895 24 205 24C206.105 24 207 23.105 207 22C207 20.895 206.105 20 205 20ZM215 22H205V31H215V22ZM215 38C213.895 38 213.01 38.895 213.01 40C213.01 41.105 213.895 42 215 42C216.105 42 217 41.105 217 40C217 38.895 216.105 38 215 38ZM205 38C203.895 38 203.01 38.895 203.01 40C203.01 41.105 203.895 42 205 42C206.105 42 207 41.105 207 40C207 38.895 206.105 38 205 38Z" fill="#3B82F6"/>
+</svg> 
