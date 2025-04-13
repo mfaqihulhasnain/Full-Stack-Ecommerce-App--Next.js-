@@ -1,4 +1,3 @@
-import { SimpleImage } from "@/components/ui/simple-image";
 import { Container } from "@/components/ui/container";
 import { Truck, ShieldCheck, HeadphonesIcon, Award, ChevronRight } from "lucide-react";
 import Link from "next/link";

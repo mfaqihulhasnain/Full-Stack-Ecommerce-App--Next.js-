@@ -18,7 +18,6 @@ import {
   Clock,
   CheckCircle2
 } from "lucide-react";
-import { SimpleImage } from "@/components/ui/simple-image";
 import { getProductById } from "@/lib/data";
 import Image from "next/image";
 

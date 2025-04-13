@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { Suspense } from 'react';
 import { Container } from "@/components/ui/container";
@@ -6,10 +5,8 @@ import { Button } from "@/components/ui/button";
 import { ProductGrid } from "@/components/product/product-grid";
 import { getFeaturedProducts, getNewArrivals, categories } from "@/lib/data";
 import { ArrowRight, Sparkles, ShoppingCart, Truck, CreditCard, Gift } from "lucide-react";
-import { OptimizedImage } from "@/components/ui/optimized-image";
-import { ProductGridSkeleton } from "@/components/ui/skeleton";
-import { SimpleImage } from "@/components/ui/simple-image";
 import { RawImage } from "@/components/ui/raw-image";
+import { ProductGridSkeleton } from "@/components/ui/skeleton";
 
 export default function Home() {
   const featuredProducts = getFeaturedProducts();
